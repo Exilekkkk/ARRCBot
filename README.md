@@ -80,22 +80,22 @@ Você precisa ter esse repositório, é simples, rode os comandos abaixo, em cas
 ### Mudanças OBRIGATÓRIAS
 EDITE as API's encontradas em:
 
-- [Linguagem](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#2)
-- [Dono](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#3)
-- [DDI](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#4)
-- [Prefix](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#5)
-- [API 1 - API-Flash](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#6)
-- [API 2 - RemoveBG](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#7)
-- [API 3 - WallHaven](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#8)
-- [API 4 - Deep-AI](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#9)
-- [Limite de Grupos](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#10)
-- [Limite de Membros](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#11)
-- [Sticker-Autor](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#12)
-- [Sticker-Pack](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#13)
-- [User-Agent](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#14)
-- [Tempo de Jogo](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#15)
-- [Anti-Flood](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#16)
-- [Max-Size](https://github.com/KillovSky/iris/blob/main/lib/config/Bot/config.json#17)
+- [Linguagem](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#2)
+- [Dono](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#3)
+- [DDI](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#4)
+- [Prefix](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#5)
+- [API 1 - API-Flash](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#6)
+- [API 2 - RemoveBG](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#7)
+- [API 3 - WallHaven](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#8)
+- [API 4 - Deep-AI](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#9)
+- [Limite de Grupos](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#10)
+- [Limite de Membros](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#11)
+- [Sticker-Autor](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#12)
+- [Sticker-Pack](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#13)
+- [User-Agent](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#14)
+- [Tempo de Jogo](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#15)
+- [Anti-Flood](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#16)
+- [Max-Size](https://github.com/Exilekkkk/iris/blob/main/lib/config/Bot/config.json#17)
 - Elas são referentes aos sites [RemoveBG](https://www.remove.bg/pt-br), [API-Flash](https://apiflash.com), [WallHaven](https://wallhaven.cc/settings/account) & [Deep-AI](https://deepai.org).
 - A DDI e Linguagem são necessárias apenas se você for de fora do Brasil, as linguagens disponiveis são "en" de inglês, "pt" de português e "es" de espanhol e afetam todos os diálogos e o akinator.
 - Você pode inserir dois ou mais números de dono, se não quiser apenas deixe o segundo como está, o tempo de jogo deve ser inserido em MINUTOS, ele limitará o tempo para cada jogatina, o Anti-Flood deverá ser em SEGUNDOS e limita os comandos e a User-Agent é opcional e o Max-Size é para Downloads, coloque entre 1 a 64 (Sugiro 16).
